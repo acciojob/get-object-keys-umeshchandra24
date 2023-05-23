@@ -7,4 +7,4 @@ const student = {
 	}
 	
 }
-key.innerText = Object.keys(getKeys());
+document.write(student.getKeys());
